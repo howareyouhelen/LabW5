@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/Helen/Documents/4976/labW5/labW5.csproj",
+  "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/labW5.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,98 +15619,98 @@
   "RootNamespace": "labW5",
   "Documents": [
     {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Provinces/Index.cshtml",
-      "TargetPath": "Views\\Provinces\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Provinces/Edit.cshtml",
-      "TargetPath": "Views\\Provinces\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Cities/Delete.cshtml",
-      "TargetPath": "Views\\Cities\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Provinces/Create.cshtml",
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Provinces/Create.cshtml",
       "TargetPath": "Views\\Provinces\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Cities/Details.cshtml",
-      "TargetPath": "Views\\Cities\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Home/Privacy.cshtml",
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Cities/Edit.cshtml",
-      "TargetPath": "Views\\Cities\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Cities/Create.cshtml",
-      "TargetPath": "Views\\Cities\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Provinces/Delete.cshtml",
-      "TargetPath": "Views\\Provinces\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Cities/Index.cshtml",
-      "TargetPath": "Views\\Cities\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Provinces/Details.cshtml",
-      "TargetPath": "Views\\Provinces\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Areas/Identity/Pages/_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Shared/_LoginPartial.cshtml",
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Shared/_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/Helen/Documents/4976/labW5/Views/Shared/Error.cshtml",
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Cities/Details.cshtml",
+      "TargetPath": "Views\\Cities\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Areas/Identity/Pages/_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Cities/Delete.cshtml",
+      "TargetPath": "Views\\Cities\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Provinces/Details.cshtml",
+      "TargetPath": "Views\\Provinces\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Provinces/Index.cshtml",
+      "TargetPath": "Views\\Provinces\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Cities/Create.cshtml",
+      "TargetPath": "Views\\Cities\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Provinces/Edit.cshtml",
+      "TargetPath": "Views\\Provinces\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Provinces/Delete.cshtml",
+      "TargetPath": "Views\\Provinces\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Cities/Edit.cshtml",
+      "TargetPath": "Views\\Cities\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/Cities/Index.cshtml",
+      "TargetPath": "Views\\Cities\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Helen/Documents/4976/labW6/labW5API/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

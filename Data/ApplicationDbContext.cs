@@ -22,4 +22,5 @@ namespace labW5.Data
             modelBuilder.Entity<City>().HasData(SampleData.GetCities());
         }
     }
+    
 }
